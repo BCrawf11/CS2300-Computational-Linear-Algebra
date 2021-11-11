@@ -1,0 +1,9 @@
+Intersects with triangle
+Does not intersect
+Does not intersect
+Does not intersect
+Does not intersect
+Intersects with triangle
+Does not intersect
+Intersects with triangle
+Does not intersect
